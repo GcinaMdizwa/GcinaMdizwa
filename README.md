@@ -15,8 +15,9 @@ I turn spatial data into reproducible analyses, interactive visualisations and p
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Spectral Signature Dashboard](https://github.com/Gcina22/spectral-signature-dashboard) | Interactive exploration of healthy and stressed crop reflectance using Python, Streamlit and Plotly. |
-| [Smart Farming Interface Prototype](https://github.com/Gcina22/smart-farming-interface-prototype) | A Streamlit interface concept for communicating geospatial agriculture applications. Currently a presentation prototype. |
+| [Spectral Signature Dashboard](https://github.com/GcinaMdizwa/spectral-signature-dashboard) | Interactive exploration of healthy and stressed crop reflectance using Python, Streamlit and Plotly. |
+| [Invasive Species Detection](https://github.com/GcinaMdizwa/invasive-species-detection) | An interface prototype being refocused on invasive-species monitoring, with bundled seasonal water-hyacinth datasets. Detection is not implemented. |
+| [Wind Energy Monitoring and Forecasting](https://github.com/GcinaMdizwa/wind-energy-monitoring-forecasting) | An educational Python forecasting baseline with a synthetic demo and documented CHPC workshop credits. |
 
 ### Background
 
