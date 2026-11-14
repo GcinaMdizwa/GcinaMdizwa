@@ -15,8 +15,8 @@ I turn spatial data into reproducible analyses, interactive visualisations and p
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Spectral Signature Dashboard](https://github.com/Gcina22/Gcinapy) | Interactive exploration of healthy and stressed crop reflectance using Python, Streamlit and Plotly. |
-| [Smart Farming Interface Prototype](https://github.com/Gcina22/Gcinapy2) | A Streamlit interface concept for communicating geospatial agriculture applications. Currently a presentation prototype. |
+| [Spectral Signature Dashboard](https://github.com/Gcina22/spectral-signature-dashboard) | Interactive exploration of healthy and stressed crop reflectance using Python, Streamlit and Plotly. |
+| [Smart Farming Interface Prototype](https://github.com/Gcina22/smart-farming-interface-prototype) | A Streamlit interface concept for communicating geospatial agriculture applications. Currently a presentation prototype. |
 
 ### Background
 
